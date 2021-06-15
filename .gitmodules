@@ -1,0 +1,4 @@
+[submodule "MannHummelVzla/mh_export_data"]
+	path = MannHummelVzla/mh_export_data
+	url = git@github.com:MannHummelVzla/mh_export_data.git
+	branch = 13
